@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EulerityHackathon</string>
+    <string name="title_activity_edit_image">EditImageActivity</string>
+    <string name="edit_image">Edit Image</string>
+    <string name="edit">Edit</string>
+    <string name="filter">Filter</string>
+</resources>
